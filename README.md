@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Hello! My HN is Raayu. I'm a high school student in Japan.
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoge&theme=dracula
+https://github-readme-stats.vercel.app/api/top-langs/?username=hoge&layout=compact&theme=dracula
+https://github-readme-stats.vercel.app/api?username=hoge&count_private=true&show_icons=true&theme=dracula
 <!--
 **raayucorp/raayucorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
